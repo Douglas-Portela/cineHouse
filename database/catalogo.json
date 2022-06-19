@@ -1,0 +1,15 @@
+[{
+    "codigo": 1,
+    "titulo": "Doutor Estranho: No Multiverso da Loucura",
+    "duracao": 2.06,
+    "atores": ["Elizabeth Olsen, Xochitl Gomez, Benedict Cumberbatch, Benedict Wong, Patrick Stewart"],
+    "anoDeLancamento": 2022,
+    "emCartaz": true
+},{
+    "codigo": 2,
+    "titulo": "Doutor Estranho",
+    "duracao": 1.55,
+    "atores": ["Benedict Cumberbatch, Benedict Wong, Rachel McAdams, Mads Mikkelsen, Tilda Swinton"],
+    "anoDeLancamento": 2016,
+    "emCartaz": false
+}]
